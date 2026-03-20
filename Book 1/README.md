@@ -45,31 +45,31 @@ Level | XP Progression          | Milestone
 ### A1. Wrecked Carriage
 
 - **Loot:**
-  - ???
+  - 9 gp worth of courtier's outfits
 
 ### A2. Locked Carriage
 
 - **Creatures:**
-  - ???
+  - 2x [Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)
 - **Loot:**
-  - ???
+  - earrings worth 2 gp 5 sp, bracelets worth 9 gp, gold and silver necklaces worth 7 gp 5 sp, sapphire pendant worth 5 gp
 
 ### A3. Ice Statue
 
 - **Loot:**
-  - ???
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=386)
 
 ## B. Trailside Trap
 
 - **Hazards:**
-  - ???
+  - [Spiked Log Trap](Hazards/README.MD#spiked-log-trap)
 - **Loot:**
-  - ???
+  - 5x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41), 3x [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=43), 2x [Wooden Shields](https://2e.aonprd.com/Shields.aspx?ID=18), 7x [Longswords](https://2e.aonprd.com/Weapons.aspx?ID=386), 2x [Spears](https://2e.aonprd.com/Weapons.aspx?ID=365), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358), 3x [Crossbows](https://2e.aonprd.com/Weapons.aspx?ID=425), 25x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
 
 ## C. Heavy Snowdrift
 
 - **Creatures:**
-  - ???
+  - 1x [Arctic Tatzlwyrm](https://2e.aonprd.com/Monsters.aspx?ID=4576) (Natural Camouflage applies in ice and snow, gains resistance to cold 5)
 
 ## D. Decorated Trees
 
