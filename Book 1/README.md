@@ -142,31 +142,34 @@ Level | XP Progression          | Milestone
 
 ### H12. Ten-Penny's Room
 - **Loot:**
-  - ???
+  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727), belt pouch (containing 2 sp and 5 cp), 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
 
 ### H13. Great Room
 - **Creatures:**
-  - ???
+  - 5x [Weak Bandits](https://2e.aonprd.com/NPCs.aspx?ID=3425&Weak=true&NoRedirect=1)
 
 ### H14. Sickroom
 - **Creatures:**
-  - ???
+  - 4x [Weak Bandits](https://2e.aonprd.com/NPCs.aspx?ID=3425&Weak=true&NoRedirect=1) (Inflicted with a permanent Sickened 2 condition)
 
 ### H15. Planning Room
 - **Creatures:**
-  - ???
+  - [Rohkar Cindren](Creatures/README.md#rohkar-cindren)
+  - 2x [Frost Skeleton Guards](https://2e.aonprd.com/Monsters.aspx?ID=3193) (Add Blaze ability, but switched to Cold)
+- **Loot:**
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706), [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42), [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425), 10x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441), [Infiltrator's Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758), ring of keys (trapdoor in H7, chest in H11, cage in H16), stolen spellbook (containing [Bullhorn](https://2e.aonprd.com/Spells.aspx?ID=1971), [Illuminate](https://2e.aonprd.com/Spells.aspx?ID=1359), [Message](https://2e.aonprd.com/Spells.aspx?ID=1598), [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=2576), [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500), and [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536)), [Wooden Religious Symbol](https://2e.aonprd.com/Equipment.aspx?ID=2745), 15 gp, [Cloak of the Yeti](Items/README.md#cloak-of-the-yeti)
 
 ### H16. Storeroom
 - **Creatures:**
-  - ???
+  - Vrixx - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 - **Loot:**
-  - ???
+  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706), 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330), lockbox (containing 3 pp, 15 gp, 18 sp, blue quartz "ice diamond" (worth 10 gp)), 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936), 10x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
 
 ### H17. Cellar
 - **Creatures:**
-  - ???
+  - Lady Argentea Malassene - [Noble](https://2e.aonprd.com/NPCs.aspx?ID=3418)
 - **Loot:**
-  - ???
+  - coin purse (containing 500 gp)
 
 ## Part 2: The Depths of Winter
 
