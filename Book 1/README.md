@@ -45,68 +45,68 @@ Level | XP Progression          | Milestone
 ### A1. Wrecked Carriage
 
 - **Loot:**
-  - 
+  - ???
 
 ### A2. Locked Carriage
 
 - **Creatures:**
-  - 2x 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### A3. Ice Statue
 
 - **Loot:**
-  - 
+  - ???
 
 ## B. Trailside Trap
 
 - **Hazards:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ## C. Heavy Snowdrift
 
 - **Creatures:**
-  - 
+  - ???
 
 ## D. Decorated Trees
 
 - **Creatures:**
-  - 
+  - ???
 
 ## E. The Talking Stag
 
 - **Creatures:**
-  - 
+  - ???
 
 ## F. Icy Crossing
 
 ### F1. Trail Sign
 
 - **Hazards:**
-  - 
+  - ???
 
 ### F2. Wishbone Creek
 - **Creatures:**
-  - 
+  - ???
 - **Hazards:**
-  - 
+  - ???
 
 ### F3. Dead Body
 - **Loot:**
-  - 
+  - ???
 
 ## G. Bandits on the Trail
 - **Creatures:**
-  - 
+  - ???
 
 ## H. The High Sentinel Lodge
 
 ### H1. Eastern Trailhead
 - **Hazards:**
-  - 
+  - ???
 
 ### H2. Outhouse
 
@@ -114,9 +114,9 @@ Level | XP Progression          | Milestone
 
 ### H4. Bridge
 - **Creatures:**
-  - 
+  - ???
 - **Hazards:**
-  -
+  - ???
 
 ### H5. Tool Shed
 
@@ -132,97 +132,97 @@ Level | XP Progression          | Milestone
 
 ### H11. Rohkar's Room
 - **Loot:**
-  - 
+  - ???
 
 ### H12. Ten-Penny's Room
 - **Loot:**
-  - 
+  - ???
 
 ### H13. Great Room
 - **Creatures:**
-  - 
+  - ???
 
 ### H14. Sickroom
 - **Creatures:**
-  - 
+  - ???
 
 ### H15. Planning Room
 - **Creatures:**
-  - 
+  - ???
 
 ### H16. Storeroom
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### H17. Cellar
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ## Part 2: The Depths of Winter
 
 ## I. Ancient Invaders
 - **Creatures:**
-  - 
+  - ???
 
 ## J. Slain Hunter
 - **Loot:**
-  - 
+  - ???
 
 ## K. Frost Firs
 - **Creatures:**
-  - 
+  - ???
 
 ## L. Bear Traps
 - **Hazards:**
-  - 
+  - ???
 
 ## M. The Soulbound Guardian
 
 ### M1. Ice Block Maze
 - **Hazards:**
-  - 
+  - ???
 
 ### M2. The Watchful Hut
 - **Creatures:**
-  - 
+  - ???
 
 ### The Harrowed Trail
 - **Hazards:**
-  - 
+  - ???
 
 ## N. Wounded Beast
 - **Creatures:**
-  - 
+  - ???
 
 ## O. Ambush!
 - **Creatures:**
-  - 
+  - ???
 
 ## P. The Winter Portal
 
 ### P1. Campsite
 - **Creatures:**
-  - 
+  - ???
 
 ### P2. Empty Igloos
 
 ### P3. False Igloo
 - **Hazards:**
-  - 
+  - ???
 - **Creatures:**
-  - 
+  - ???
 
 ### P4. Natural Cave
 - **Loot:**
-  - 
+  - ???
 
 ### P5. Portal of Endless Winter
 - **Creatures:**
-  - 
+  - ???
 
 ## The Black Rider
 
@@ -232,17 +232,17 @@ Level | XP Progression          | Milestone
 
 ## Event 1: The Hungry Mantis
 - **Creatures:**
-  - 
+  - ???
 
 ## Event 2: Travelers from Waldsby
 
 ## Event 3: The Troubling Troubadour
 - **Creatures:**
-  - 
+  - ???
 
 ## Event 4: Eyes in the Sky
 - **Creatures:**
-  - 
+  - ???
 
 ## Waldsby
 
@@ -250,17 +250,17 @@ Level | XP Progression          | Milestone
 
 ## Event 5: Inhospitable Hosts
 - **Creatures:**
-  - 
+  - ???
 
 ## Soldiers from the Pale Tower
 
 ## Event 6: Search and Seizure
 - **Creatures:**
-  - 
+  - ???
 
 ## Event 7: The Guard Sergeant
 - **Creatures:**
-  - 
+  - ???
 
 ## Willing Allies
 
@@ -268,23 +268,23 @@ Level | XP Progression          | Milestone
 
 ## Event 8: On the Road
 - **Creatures:**
-  - 
+  - ???
 
 ## Q. The Pale Tower
 
 ### Q1. Outer Gate
 - **Creatures:**
-  - 
+  - ???
 
 ### Q2. Courtyard
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### Q3. Entrance Hall
 - **Creatures:**
-  - 
+  - ???
 
 ### Q4. Privies
 
@@ -292,79 +292,79 @@ Level | XP Progression          | Milestone
 
 ### Q6. North Barracks
 - **Creatures:**
-  - 
+  - ???
 
 ### Q7. South Barracks
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### Q8. Dining Hall
 - **Creatures:**
-  - 
+  - ???
 
 ### Q9. Kitchen
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### Q10. Empty Bedroom
 
 ### Q11. Guest Bedroom
 - **Creatures:**
-  - 
+  - ???
 
 ### Q12. Library
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### Q13. Mirrored Hall
 - **Creatures:**
-  - 
+  - ???
 
 ### Q14. Conservatory
 - **Creatures:**
-  - 
+  - ???
 
 ### Q15. Ice Crystal Teleporter
 
 ### Q16. Hestrig's Bedroom
 - **Loot:**
-  - 
+  - ???
 
 ### Q17. Aerie
 - **Creatures:**
-  - 
+  - ???
 
 ### Q18. Jairess' Bedroom
 
 ### Q19. Storeroom
 - **Loot:**
-  - 
+  - ???
 
 ### Q20. Ritual Chamber
 - **Creatures:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ### Q21. Empty Bedroom
 
 ### Q22. Radosek's Bedroom
 - **Loot:**
-  - 
+  - ???
 
 ### Q23. Nazhena's Bedroom
 
 ### Q24. Vault
 - **Hazards:**
-  - 
+  - ???
 - **Loot:**
-  - 
+  - ???
 
 ## Closing the Winter Portal
 
