@@ -38,8 +38,6 @@ Level | XP Progression          | Milestone
 
 ### Local Lore
 
-### Speaking with Yuln
-
 ## A. Massacre Site
 
 ### A1. Wrecked Carriage
@@ -112,29 +110,15 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Crossbow Trap](Hazards/README.md#crossbow-trap)
 
-### H2. Outhouse
-
-### H3. Stable
-
 ### H4. Bridge
 - **Creatures:**
   - Izoze - [Elite Ice Mephit](https://2e.aonprd.com/Monsters.aspx?ID=660&Elite=true&NoRedirect=1)
 - **Hazards:**
   - [Icy Bridge](Hazards/README.md#icy-bridge)
 
-### H5. Tool Shed
-
-### H6. Porch
-
-### H7. Trophy Room
-
 ### H8. Kitchen
 - **Creatures:**
   - Ten-Penny Tacey - [Dromaar Mountaineer](https://2e.aonprd.com/NPCs.aspx?ID=3131) (Replace pick with dagger, bolas with a +1 hand crossbow, and give 12 bolts and a short sword)
-
-### H9. Corner Bedroom
-
-### H10. Small Bedroom
 
 ### H11. Rohkar's Room
 - **Loot:**
@@ -175,11 +159,11 @@ Level | XP Progression          | Milestone
 
 ## I. Ancient Invaders
 - **Creatures:**
-  - ???
+  - 3x [Frost Skeleton Guards](https://2e.aonprd.com/Monsters.aspx?ID=3193) (Add Blaze ability, but switched to Cold)
 
 ## J. Slain Hunter
 - **Loot:**
-  - ???
+  - [Snowshoes](https://2e.aonprd.com/Equipment.aspx?ID=876), 2x [Lesser Animal-Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895), bloodstained pack (containing 3x [Rations](https://2e.aonprd.com/Equipment.aspx?ID=2744), Half-Full Hip Flask of [Applejack](https://2e.aonprd.com/Equipment.aspx?ID=622), Journal of Tracking Giant Weasel, and 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364))
 
 ## K. Frost Firs
 - **Creatures:**
