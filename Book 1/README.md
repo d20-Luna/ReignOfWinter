@@ -74,39 +74,43 @@ Level | XP Progression          | Milestone
 ## D. Decorated Trees
 
 - **Creatures:**
-  - ???
+  - Pym - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
+  - Shor - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
+  - Vosi - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 
 ## E. The Talking Stag
 
 - **Creatures:**
-  - ???
+  - Fawfein - [Winter-Touched Melixie](https://2e.aonprd.com/Monsters.aspx?ID=1322) (Immunity to Cold, Weakness 3 to fire, Attacks inflict slowed 1 for 1 round (DC 17))
+  - The Talking Stag - [Elk](https://2e.aonprd.com/Monsters.aspx?ID=2201)
 
 ## F. Icy Crossing
 
 ### F1. Trail Sign
 
 - **Hazards:**
-  - ???
+  - [Sound Burst Trap](Hazards/README.md#sound-burst-trap)
 
 ### F2. Wishbone Creek
 - **Creatures:**
-  - ???
+  - Shrikks - [Weak Icicle Snake](https://2e.aonprd.com/Monsters.aspx?ID=4390&Weak=true&NoRedirect=1)
+  - Szassh - [Weak Icicle Snake](https://2e.aonprd.com/Monsters.aspx?ID=4390&Weak=true&NoRedirect=1)
 - **Hazards:**
-  - ???
+  - [Frozen Creek](Hazards/README.md#frozen-creek)
 
 ### F3. Dead Body
 - **Loot:**
-  - ???
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Composite Longbow](https://2e.aonprd.com/Weapons.aspx?ID=434), 12x [Arrows](https://2e.aonprd.com/Weapons.aspx?ID=443), [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Hatchet](https://2e.aonprd.com/Weapons.aspx?ID=382), 1 gp, 6 sp, 7 cp
 
 ## G. Bandits on the Trail
 - **Creatures:**
-  - ???
+  - 3x [Weak Bandits](https://2e.aonprd.com/NPCs.aspx?ID=3425&Weak=true&NoRedirect=1)
 
 ## H. The High Sentinel Lodge
 
 ### H1. Eastern Trailhead
 - **Hazards:**
-  - ???
+  - [Crossbow Trap](Hazards/README.md#crossbow-trap)
 
 ### H2. Outhouse
 
@@ -114,9 +118,9 @@ Level | XP Progression          | Milestone
 
 ### H4. Bridge
 - **Creatures:**
-  - ???
+  - Izoze - [Elite Ice Mephit](https://2e.aonprd.com/Monsters.aspx?ID=660&Elite=true&NoRedirect=1)
 - **Hazards:**
-  - ???
+  - [Icy Bridge](Hazards/README.md#icy-bridge)
 
 ### H5. Tool Shed
 
@@ -125,6 +129,8 @@ Level | XP Progression          | Milestone
 ### H7. Trophy Room
 
 ### H8. Kitchen
+- **Creatures:**
+  - Ten-Penny Tacey - [Dromaar Mountaineer](https://2e.aonprd.com/NPCs.aspx?ID=3131) (Replace pick with dagger, bolas with a +1 hand crossbow, and give 12 bolts and a short sword)
 
 ### H9. Corner Bedroom
 
@@ -132,7 +138,7 @@ Level | XP Progression          | Milestone
 
 ### H11. Rohkar's Room
 - **Loot:**
-  - ???
+  - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765), [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754), [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring, 3x [Tiger’s Eye](https://2e.aonprd.com/Rules.aspx?ID=3228), [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with hidden compartment (containing 1 dose of [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334)), [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517), 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658), [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
 
 ### H12. Ten-Penny's Room
 - **Loot:**
@@ -228,7 +234,7 @@ Level | XP Progression          | Milestone
 
 ## The Mantle of the Black Rider
 
-## Part 3: Land of the Winter Witches
+## Part 3: Land of the White Witches
 
 ## Event 1: The Hungry Mantis
 - **Creatures:**
@@ -384,7 +390,7 @@ Level | XP Progression          | Milestone
 - [JSON](Waldsby/Waldsby.json)
 - [PDF](Waldsby/Walsdby.pdf)
 
-## Heldren/Waldsby Encounters
+## Heldren Waldsby Encounters
 
 d%     | Result                                                           | Encounter Level
 -------|------------------------------------------------------------------|----------------
