@@ -378,16 +378,7 @@ Level | XP Progression          | Milestone
 
 ### Q12. Library
 - **Creatures:**
-  - Captain Hestrig Orlov - [Dragonblood Magus](Creatures/README.md#dragonblood-magus)
-- **Loot:**
-  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Greatsword](https://2e.aonprd.com/Weapons.aspx?ID=379)
-  - [Backfire Mantle](https://2e.aonprd.com/Equipment.aspx?ID=1040)
-  - [Lesser Energy Breath Potion (Cold)](https://2e.aonprd.com/Equipment.aspx?ID=2941)
-  - 2x [Moderate Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=2943)
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)
-  - Key to Chest in Q16
-  - Key to Ice Crystal Teleporter in Q15
-  - 10 gp
+  - [Captain Hestrig Orlov](Creatures/README.md#captain-hestrig-orlov)
 
 ### Q13. Mirrored Hall
 - **Creatures:**
@@ -413,7 +404,7 @@ Level | XP Progression          | Milestone
 
 ### Q17. Aerie
 - **Creatures:**
-  - Jairess Sonn - [Sylph Cleric](Creatures/README.md#sylph-cleric)
+  - [Jairess Sonn](Creatures/README.md#jairess-sonn)
   - [Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4528)
 
 ### Q18. Jairess' Bedroom
