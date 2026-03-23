@@ -99,6 +99,13 @@ Valstoi is built as a goat familiar.
 
 ## New Creatures
 
+### Witchcrow
+
+![Witchcrow](PNGs/Witchcrow.png)
+
+* [PF2 Tools JSON](PF2Tools/Witchcrow.json)
+* [PDF](PDFs/Witchcrow.pdf)
+
 ### Animated Ice Dragon
 
 ![Animated Ice Dragon](PNGs/AnimatedIceDragon.png)
