@@ -398,11 +398,11 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Captain Hestrig Orlov - [Dragonblood Magus](Creatures/README.md#dragonblood-magus)
 - **Loot:**
-  - +1 Greatsword
-  - Backfire Mantle
-  - Lesser Energy Breath Potion (Cold)
-  - 2x Moderate Healing Potions
-  - Scroll of Runic Weapon
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Greatsword](https://2e.aonprd.com/Weapons.aspx?ID=379)
+  - [Backfire Mantle](https://2e.aonprd.com/Equipment.aspx?ID=1040)
+  - [Lesser Energy Breath Potion (Cold)](https://2e.aonprd.com/Equipment.aspx?ID=2941)
+  - 2x [Moderate Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)
   - Key to Chest in Q16
   - Key to Ice Crystal Teleporter in Q15
   - 10 gp
@@ -420,11 +420,11 @@ Level | XP Progression          | Milestone
 ### Q16. Hestrig's Bedroom
 - **Loot:**
   - Chest (DC 23 Thievery to unlock) containing:
-    - truth potion
-    - 3x potion of retaliation (cold)
-    - silver bracers worth 25 gp
-    - agate worth 5 gp
-    - 3x blue quartz worth 10 gp each
+    - [Truth Potion](https://2e.aonprd.com/Equipment.aspx?ID=2961)
+    - 3x [Moderate Potion of Retaliation (Cold)](https://2e.aonprd.com/Equipment.aspx?ID=3404)
+    - Silver Bracers worth 25 gp
+    - Agate worth 5 gp
+    - 3x Blue Quartz worth 10 gp each
     - 25 gp
     - 53 sp
     - 92 cp
@@ -438,35 +438,35 @@ Level | XP Progression          | Milestone
 
 ### Q19. Storeroom
 - **Loot:**
-  - +1 striking low-grade silver dagger
-  - jade bracelet worth 18 gp
-  - 2x porcelain dolls worth 4 gp each
-  - silver medallion worth 30 gp
-  - gold signet ring worth 25 gp
-  - 3x blue quartz worth 10 gp each
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=2829) [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - Jade Bracelet worth 18 gp
+  - 2x Porcelain Dolls worth 4 gp each
+  - Silver Medallion worth 30 gp
+  - Gold Signet Ring worth 25 gp
+  - 3x Blue Quartz worth 10 gp each
 
 ### Q20. Ritual Chamber
 - **Creatures:**
   - [Radosek Pavril](Creatures/README.md#radosek-pavril)
   - [Valstoi](Creatures/README.md#valstoi)
 - **Loot:**
-  - walking cauldron
-  - 2x lesser acid flask
-  - 3x lesser alchemist’s fire
-  - 2x lesser bottled sunlight
-  - 3x lesser frost vial
-  - 3x lesser smoke ball
-  - everlight crystal
-  - 2x lesser glue bomb
-  - 3x lesser blasting stone
-  - 15x matchsticks
-  - 3x oil of potency
+  - [Walking Cauldron](https://2e.aonprd.com/Equipment.aspx?ID=3116)
+  - 2x [Lesser Acid Flask](https://2e.aonprd.com/Equipment.aspx?ID=3286)
+  - 3x [Lesser Alchemist’s Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
+  - 2x [Lesser Bottled Sunlight](https://2e.aonprd.com/Equipment.aspx?ID=1532)
+  - 3x [Lesser Frost Vial](https://2e.aonprd.com/Equipment.aspx?ID=3293)
+  - 3x [Lesser Smoke Ball](https://2e.aonprd.com/Equipment.aspx?ID=3360)
+  - [Everlight Crystal](https://2e.aonprd.com/Equipment.aspx?ID=3021)
+  - 2x [Lesser Glue Bomb](https://2e.aonprd.com/Equipment.aspx?ID=3295)
+  - 3x [Lesser Blasting Stone](https://2e.aonprd.com/Equipment.aspx?ID=3288)
+  - 15x [Matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
+  - 3x [Oil of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936)
 
 ### Q21. Empty Bedroom
 
 ### Q22. Radosek's Bedroom
 - **Loot:**
-  - art worth 50 gp
+  - Art worth 50 gp
 
 ### Q23. Nazhena's Bedroom
 
@@ -474,28 +474,28 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Curse of Rapid Decline](Hazards/README.md#curse-of-rapid-decline)
 - **Loot:**
-  - 2x lesser healing potion
-  - scrolls
-    2x translate
-    2x heal
-    2x restoration
-    dispel magic
-    2x sound body
-    2x threefold aspect
-  - 2x shrinking potion
-  - 2x oak potion
-  - 2x invisibility potion
-  - 50x silver ingots
-  - spacious pouch (type II)
+  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962)
+    2x [Translate](https://2e.aonprd.com/Spells.aspx?ID=1723)
+    2x [Heal](https://2e.aonprd.com/Spells.aspx?ID=1554)
+    2x [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258)
+    [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493)
+    2x [Sound Body](https://2e.aonprd.com/Spells.aspx?ID=1679)
+    2x [Threefold Aspect](https://2e.aonprd.com/Spells.aspx?ID=2038)
+  - 2x [Shrinking Potion](https://2e.aonprd.com/Equipment.aspx?ID=2958)
+  - 2x [Oak Potion](https://2e.aonprd.com/Equipment.aspx?ID=2945)
+  - 2x [Invisibility Potion](https://2e.aonprd.com/Equipment.aspx?ID=2944)
+  - 50x [Silver Ingots](https://2e.aonprd.com/Equipment.aspx?ID=2920)
+  - [Spacious Pouch (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=3032)
   - 129 gp
   - 219 sp
   - 1079 cp
-  - sleeves of storage
-  - marvelous miniatures
-    - swift sparrow
-    - holly bush
-  - magic wand (dizzying colors)
-  - ring of sustenance
+  - [Sleeves of Storage](https://2e.aonprd.com/Equipment.aspx?ID=3110)
+  - [Marvelous Miniatures](https://2e.aonprd.com/Equipment.aspx?ID=3002)
+    - Swift Sparrow
+    - Holly Bush
+  - [Magic Wand](https://2e.aonprd.com/Equipment.aspx?ID=3050) of [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500)
+  - [Ring of Sustenance](https://2e.aonprd.com/Equipment.aspx?ID=3106)
 
 ## Closing the Winter Portal
 
