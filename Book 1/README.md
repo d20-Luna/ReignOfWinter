@@ -50,7 +50,10 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - 2x [Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)
 - **Loot:**
-  - earrings worth 2 gp 5 sp, bracelets worth 9 gp, gold and silver necklaces worth 7 gp 5 sp, sapphire pendant worth 5 gp
+  - earrings worth 2 gp 5 sp
+  - bracelets worth 9 gp
+  - gold and silver necklaces worth 7 gp 5 sp
+  - sapphire pendant worth 5 gp
 
 ### A3. Ice Statue
 
@@ -62,7 +65,15 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Spiked Log Trap](Hazards/README.MD#spiked-log-trap)
 - **Loot:**
-  - 5x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41), 3x [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=43), 2x [Wooden Shields](https://2e.aonprd.com/Shields.aspx?ID=18), 7x [Longswords](https://2e.aonprd.com/Weapons.aspx?ID=386), 2x [Spears](https://2e.aonprd.com/Weapons.aspx?ID=365), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358), 3x [Crossbows](https://2e.aonprd.com/Weapons.aspx?ID=425), 25x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
+  - 5x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41)
+  - 3x [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42)
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=43)
+  - 2x [Wooden Shields](https://2e.aonprd.com/Shields.aspx?ID=18)
+  - 7x [Longswords](https://2e.aonprd.com/Weapons.aspx?ID=386)
+  - 2x [Spears](https://2e.aonprd.com/Weapons.aspx?ID=365)
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - 3x [Crossbows](https://2e.aonprd.com/Weapons.aspx?ID=425)
+  - 25x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
 
 ## C. Heavy Snowdrift
 
@@ -98,7 +109,13 @@ Level | XP Progression          | Milestone
 
 ### F3. Dead Body
 - **Loot:**
-  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Composite Longbow](https://2e.aonprd.com/Weapons.aspx?ID=434), 12x [Arrows](https://2e.aonprd.com/Weapons.aspx?ID=443), [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Hatchet](https://2e.aonprd.com/Weapons.aspx?ID=382), 1 gp, 6 sp, 7 cp
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Composite Longbow](https://2e.aonprd.com/Weapons.aspx?ID=434)
+  - 12x [Arrows](https://2e.aonprd.com/Weapons.aspx?ID=443)
+  - [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Hatchet](https://2e.aonprd.com/Weapons.aspx?ID=382)
+  - 1 gp
+  - 6 sp
+  - 7 cp
 
 ## G. Bandits on the Trail
 - **Creatures:**
@@ -122,11 +139,23 @@ Level | XP Progression          | Milestone
 
 ### H11. Rohkar's Room
 - **Loot:**
-  - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765), [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754), [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring, 3x [Tiger’s Eye](https://2e.aonprd.com/Rules.aspx?ID=3228), [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with hidden compartment (containing 1 dose of [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334)), [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517), 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658), [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
+  - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765)
+  - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754)
+  - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring
+  - 3x [Tiger’s Eye](https://2e.aonprd.com/Rules.aspx?ID=3228)
+  - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with hidden compartment containing:
+    - 1x [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334))
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517)
+  - 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
 
 ### H12. Ten-Penny's Room
 - **Loot:**
-  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727), belt pouch (containing 2 sp and 5 cp), 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727)
+  - belt pouch containing:
+    - 2 sp
+    - 5 cp
+  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
 
 ### H13. Great Room
 - **Creatures:**
@@ -141,19 +170,44 @@ Level | XP Progression          | Milestone
   - [Rohkar Cindren](Creatures/README.md#rohkar-cindren)
   - 2x [Frost Skeleton Guards](https://2e.aonprd.com/Monsters.aspx?ID=3193) (Add Blaze ability, but switched to Cold)
 - **Loot:**
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706), [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330), [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42), [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425), 10x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441), [Infiltrator's Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758), ring of keys (trapdoor in H7, chest in H11, cage in H16), stolen spellbook (containing [Bullhorn](https://2e.aonprd.com/Spells.aspx?ID=1971), [Illuminate](https://2e.aonprd.com/Spells.aspx?ID=1359), [Message](https://2e.aonprd.com/Spells.aspx?ID=1598), [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=2576), [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500), and [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536)), [Wooden Religious Symbol](https://2e.aonprd.com/Equipment.aspx?ID=2745), 15 gp, [Cloak of the Yeti](Items/README.md#cloak-of-the-yeti)
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706)
+  - [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330)
+  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42)
+  - [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
+  - 10x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
+  - [Infiltrator's Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758)
+  - ring of keys (trapdoor in H7, chest in H11, cage in H16)
+  - stolen spellbook containing:
+    - [Bullhorn](https://2e.aonprd.com/Spells.aspx?ID=1971)
+    - [Illuminate](https://2e.aonprd.com/Spells.aspx?ID=1359)
+    - [Message](https://2e.aonprd.com/Spells.aspx?ID=1598)
+    - [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=2576)
+    - [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500)
+    - [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536))
+  - [Wooden Religious Symbol](https://2e.aonprd.com/Equipment.aspx?ID=2745)
+  - 15 gp
+  - [Cloak of the Yeti](Items/README.md#cloak-of-the-yeti)
 
 ### H16. Storeroom
 - **Creatures:**
   - Vrixx - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 - **Loot:**
-  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706), 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330), lockbox (containing 3 pp, 15 gp, 18 sp, blue quartz "ice diamond" (worth 10 gp)), 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936), 10x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
+  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706)
+  - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330)
+  - lockbox containing:
+    - 3 pp
+    - 15 gp
+    - 18 sp
+    - blue quartz "ice diamond" (worth 10 gp))
+  - 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936)
+  - 10x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
 
 ### H17. Cellar
 - **Creatures:**
   - Lady Argentea Malassene - [Noble](https://2e.aonprd.com/NPCs.aspx?ID=3418)
 - **Loot:**
-  - coin purse (containing 500 gp)
+  - coin purse containing:
+    - 500 gp
 
 ## Part 2: The Depths of Winter
 
@@ -163,79 +217,105 @@ Level | XP Progression          | Milestone
 
 ## J. Slain Hunter
 - **Loot:**
-  - [Snowshoes](https://2e.aonprd.com/Equipment.aspx?ID=876), 2x [Lesser Animal-Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895), bloodstained pack (containing 3x [Rations](https://2e.aonprd.com/Equipment.aspx?ID=2744), Half-Full Hip Flask of [Applejack](https://2e.aonprd.com/Equipment.aspx?ID=622), Journal of Tracking Giant Weasel, and 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364))
+  - [Snowshoes](https://2e.aonprd.com/Equipment.aspx?ID=876)
+  - 2x [Lesser Animal-Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895)
+  - bloodstained pack containing:
+    - 3x [Rations](https://2e.aonprd.com/Equipment.aspx?ID=2744)
+    - Half-Full Hip Flask of [Applejack](https://2e.aonprd.com/Equipment.aspx?ID=622)
+    - Journal of Tracking Giant Weasel
+    - 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364))
 
 ## K. Frost Firs
 - **Creatures:**
-  - ???
+  - 2x [Weak Arboreal Saplings](https://2e.aonprd.com/Monsters.aspx?ID=3690&Weak=true&NoRedirect=1)
 
 ## L. Bear Traps
 - **Hazards:**
-  - ???
+  - 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364)
 
 ## M. The Soulbound Guardian
 
 ### M1. Ice Block Maze
 - **Hazards:**
-  - ???
+  - [Entombed Spirit](https://2e.aonprd.com/Hazards.aspx?ID=151)
 
 ### M2. The Watchful Hut
 - **Creatures:**
-  - ???
+  - Thora Petska - [Elite Jolly Soulbound Doll](https://2e.aonprd.com/Monsters.aspx?ID=3204&Elite=true&NoRedirect=1)
 
 ### The Harrowed Trail
 - **Hazards:**
-  - ???
+  - Glyph of Warding - [Fireball Rune](https://2e.aonprd.com/Hazards.aspx?ID=469) dealing 3d6 Cold Damage
 
 ## N. Wounded Beast
 - **Creatures:**
-  - ???
+  - [Megalictis](https://2e.aonprd.com/Monsters.aspx?ID=1365) with 35 Hit Points
 
 ## O. Ambush!
 - **Creatures:**
-  - ???
+  - Squald - [Despairing Pall](https://2e.aonprd.com/Monsters.aspx?ID=2617)
+  - Hommelstaub - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
 
 ## P. The Winter Portal
 
 ### P1. Campsite
 - **Creatures:**
-  - ???
+  - Hommelstaub - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
 
 ### P2. Empty Igloos
 
 ### P3. False Igloo
 - **Hazards:**
-  - ???
+  - [Hidden Pit](https://2e.aonprd.com/Hazards.aspx?ID=474)
 - **Creatures:**
-  - ???
+  - 2x [Winter-Touched Sprites](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 
 ### P4. Natural Cave
 - **Loot:**
-  - ???
+  - Lockbox (DC 19 Thievery to unlock) containing
+    - 4x [Sure-Step Potions](https://2e.aonprd.com/Equipment.aspx?ID=2094) in an iron coffer
+    - 4 blue quartz “ice diamonds” work 10 gp each
+    - silver diadem worth 30 gp
+    - near flawless diamond worth 50 gp
+    - jeweled necklace worth 40 gp
+    - painting of Whitethrone worth 10 gp to an art collector
+    - 3 sapphire rings worth 8 gp each
+    - decorative filigree sculpture worth 5 gp
+    - 248 gp
+    - 332 sp
+    - 176 cp
+
 
 ### P5. Portal of Endless Winter
 - **Creatures:**
-  - ???
+  - Teb Knotten - [Weak Ice Troll](https://2e.aonprd.com/Monsters.aspx?ID=4591&Weak=true&NoRedirect=1)
 
 ## The Black Rider
 
 ## The Mantle of the Black Rider
 
+- **Loot:**
+- Every player character gains 1 free Ability Score Increase
+- Taxus Yew - Staff becomes [Staff of Gentle Rebirth](Treasure/README.md#staff-of-gentle-rebirth)
+- Freta - Blunderbuss, Flintlock Pistol, and Flintlock Musket combine and become [Malefic Borer, Ravager of the Corrupted](Treasure/README.md#malefic-borer-ravager-of-the-corrupted)
+- Vrassketh - Wish Knives become [Wishful Waves](Treasure/README.md#wishful-waves)
+- Thresh - Scale Mail becomes [Ulgrem Scale](Treasure/README.md#ulgrem-scale)
+
 ## Part 3: Land of the White Witches
 
 ## Event 1: The Hungry Mantis
 - **Creatures:**
-  - ???
+  - [Elite Giant Mantis](https://2e.aonprd.com/Monsters.aspx?ID=3094&Elite=true&NoRedirect=1)
 
 ## Event 2: Travelers from Waldsby
 
 ## Event 3: The Troubling Troubadour
 - **Creatures:**
-  - ???
+  - Mierul Ardelain - [Winter-Touched Satyr](https://2e.aonprd.com/Monsters.aspx?ID=3173) (Immunity to Cold, Weakness 5 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 21))
 
 ## Event 4: Eyes in the Sky
 - **Creatures:**
-  - ???
+  - [Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4528)
 
 ## Waldsby
 
@@ -243,17 +323,19 @@ Level | XP Progression          | Milestone
 
 ## Event 5: Inhospitable Hosts
 - **Creatures:**
-  - ???
+  - Emil Goltiaeva - [Barkeep](https://2e.aonprd.com/NPCs.aspx?ID=944&NoRedirect=1)
+  - Katrina Goltiaeva - [Mage for Hire](https://2e.aonprd.com/NPCs.aspx?ID=3514)
 
 ## Soldiers from the Pale Tower
 
 ## Event 6: Search and Seizure
 - **Creatures:**
-  - ???
+  - 6x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
 
 ## Event 7: The Guard Sergeant
 - **Creatures:**
-  - ???
+  - Sergeant Volan Sertane - [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=936)
+  - 4x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
 
 ## Willing Allies
 
@@ -261,23 +343,24 @@ Level | XP Progression          | Milestone
 
 ## Event 8: On the Road
 - **Creatures:**
-  - ???
+  - Lytil - [Elite Witchcrow](Creatures/README.md#witchcrow)
 
 ## Q. The Pale Tower
 
 ### Q1. Outer Gate
 - **Creatures:**
-  - ???
+  - 3x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
 
 ### Q2. Courtyard
 - **Creatures:**
-  - ???
+  - Bordegga - [Ice Troll](https://2e.aonprd.com/Monsters.aspx?ID=4591)
+  - [Animated Ice Dragon](Creatures/README.md#animated-ice-dragon)
 - **Loot:**
-  - ???
+  - 50 gp
 
 ### Q3. Entrance Hall
 - **Creatures:**
-  - ???
+  - [Weak Mist Stalker](https://2e.aonprd.com/Monsters.aspx?ID=4391&Weak=true&NoRedirect=1)
 
 ### Q4. Privies
 
@@ -285,79 +368,134 @@ Level | XP Progression          | Milestone
 
 ### Q6. North Barracks
 - **Creatures:**
-  - ???
+  - 5x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
 
 ### Q7. South Barracks
 - **Creatures:**
-  - ???
+  - Sergeant Yana Dultzev - [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=936)
+  - 4x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
 - **Loot:**
-  - ???
+  - Key to Ice Crystal Teleporter in Q5
 
 ### Q8. Dining Hall
 - **Creatures:**
-  - ???
+  - Jir - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
+  - Lask - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
 
 ### Q9. Kitchen
 - **Creatures:**
-  - ???
+  - Mig Epsel - [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817)
 - **Loot:**
-  - ???
+  - [Conspirator's Cookie](https://2e.aonprd.com/Equipment.aspx?ID=3520)
 
 ### Q10. Empty Bedroom
 
 ### Q11. Guest Bedroom
 - **Creatures:**
-  - ???
+  - Gardhek - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126)
 
 ### Q12. Library
 - **Creatures:**
-  - ???
+  - Captain Hestrig Orlov - [Dragonblood Magus](Creatures/README.md#dragonblood-magus)
 - **Loot:**
-  - ???
+  - +1 Greatsword
+  - Backfire Mantle
+  - Lesser Energy Breath Potion (Cold)
+  - 2x Moderate Healing Potions
+  - Scroll of Runic Weapon
+  - Key to Chest in Q16
+  - Key to Ice Crystal Teleporter in Q15
+  - 10 gp
 
 ### Q13. Mirrored Hall
 - **Creatures:**
-  - ???
+  - 2x [Animated Ice Nymphs](Creatures/README.md#animated-ice-nymph)
 
 ### Q14. Conservatory
 - **Creatures:**
-  - ???
+  - [Mandragora](http://2e.aonprd.com/Monsters.aspx?ID=4471)
 
 ### Q15. Ice Crystal Teleporter
 
 ### Q16. Hestrig's Bedroom
 - **Loot:**
-  - ???
+  - Chest (DC 23 Thievery to unlock) containing:
+    - truth potion
+    - 3x potion of retaliation (cold)
+    - silver bracers worth 25 gp
+    - agate worth 5 gp
+    - 3x blue quartz worth 10 gp each
+    - 25 gp
+    - 53 sp
+    - 92 cp
 
 ### Q17. Aerie
 - **Creatures:**
-  - ???
+  - Jairess Sonn - [Sylph Cleric](Creatures/README.md#sylph-cleric)
+  - [Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4528)
 
 ### Q18. Jairess' Bedroom
 
 ### Q19. Storeroom
 - **Loot:**
-  - ???
+  - +1 striking low-grade silver dagger
+  - jade bracelet worth 18 gp
+  - 2x porcelain dolls worth 4 gp each
+  - silver medallion worth 30 gp
+  - gold signet ring worth 25 gp
+  - 3x blue quartz worth 10 gp each
 
 ### Q20. Ritual Chamber
 - **Creatures:**
-  - ???
+  - [Radosek Pavril](Creatures/README.md#radosek-pavril)
+  - [Valstoi](Creatures/README.md#valstoi)
 - **Loot:**
-  - ???
+  - walking cauldron
+  - 2x lesser acid flask
+  - 3x lesser alchemist’s fire
+  - 2x lesser bottled sunlight
+  - 3x lesser frost vial
+  - 3x lesser smoke ball
+  - everlight crystal
+  - 2x lesser glue bomb
+  - 3x lesser blasting stone
+  - 15x matchsticks
+  - 3x oil of potency
 
 ### Q21. Empty Bedroom
 
 ### Q22. Radosek's Bedroom
 - **Loot:**
-  - ???
+  - art worth 50 gp
 
 ### Q23. Nazhena's Bedroom
 
 ### Q24. Vault
 - **Hazards:**
-  - ???
+  - [Curse of Rapid Decline](Hazards/README.md#curse-of-rapid-decline)
 - **Loot:**
-  - ???
+  - 2x lesser healing potion
+  - scrolls
+    2x translate
+    2x heal
+    2x restoration
+    dispel magic
+    2x sound body
+    2x threefold aspect
+  - 2x shrinking potion
+  - 2x oak potion
+  - 2x invisibility potion
+  - 50x silver ingots
+  - spacious pouch (type II)
+  - 129 gp
+  - 219 sp
+  - 1079 cp
+  - sleeves of storage
+  - marvelous miniatures
+    - swift sparrow
+    - holly bush
+  - magic wand (dizzying colors)
+  - ring of sustenance
 
 ## Closing the Winter Portal
 
