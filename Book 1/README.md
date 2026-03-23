@@ -325,7 +325,7 @@ Level | XP Progression          | Milestone
 
 ## Event 8: On the Road
 - **Creatures:**
-  - Lytil - [Elite Witchcrow](Creatures/README.md#witchcrow)
+  - [Lytil](Creatures/README.md#lytil)
 
 ## Q. The Pale Tower
 
