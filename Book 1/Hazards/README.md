@@ -2,6 +2,14 @@
 
 Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these do **NOT** import directly into FoundryVTT.
 
+## B. Trailside Trap
+
+### Spiked Log Trap
+
+![Spiked Log Trap](SpikedLogTrap.png)
+
+* [PDF](SpikedLogTrap.pdf)
+
 ## F1. Trail Sign
 
 ### Sound Burst Trap
