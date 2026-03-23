@@ -46,6 +46,15 @@ Rohkar is built as a Level 3 Cleric with the Death Domain.
 
 Lytil just a Witchcrow with the Elite adjustment.
 
+### Captain Hestrig Orlov
+
+![Captain Hestrig Orlov](PNGs/CaptainHestrigOrlov.png)
+
+* [PF2 Tools JSON](PF2Tools/CaptainHestrigOrlov.json)
+* [PDF](PDFs/CaptainHestrigOrlov.pdf)
+
+Hestrig is built as a Dragonblood Magus with the Rime Dragon Benefactor.
+
 #### Hestrig's Items
 
 * [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Greatsword](https://2e.aonprd.com/Weapons.aspx?ID=379)
@@ -59,13 +68,34 @@ Lytil just a Witchcrow with the Elite adjustment.
 
 ### Jairess Sonn
 
+![Jairess Sonn](PNGs/JairessSonn.png)
+
+* [PF2 Tools JSON](PF2Tools/JairessSonn.json)
+* [PDF](PDFs/JairessSonn.pdf)
+
 Jairess is built as a Sylph Cleric with an emphasis on wind-related spells.
 
 ### Radosek Pavril
 
+![Radosek Pavril](PNGs/RadosekPavril.png)
+
+* [PF2 Tools JSON](PF2Tools/RadosekPavril.json)
+* [PDF](PDFs/RadosekPavril.pdf)
+
 Radosek is built as a Level 5 Witch with the Silence in Snow patron.
 
+#### Radosek's Items
+
+* [Icicle Wand](Items/README.md#icicle-wand)
+* [Bands of Force](https://2e.aonprd.com/Equipment.aspx?ID=3058)
+* 2x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+
 ### Valstoi
+
+![Valstoi](PNGs/Valstoi.png)
+
+* [PF2 Tools JSON](PF2Tools/Valstoi.json)
+* [PDF](PDFs/Valstoi.pdf)
 
 Valstoi is built as a goat familiar.
 
@@ -73,4 +103,14 @@ Valstoi is built as a goat familiar.
 
 ### Animated Ice Dragon
 
+![Animated Ice Dragon](PNGs/AnimatedIceDragon.png)
+
+* [PF2 Tools JSON](PF2Tools/AnimatedIceDragon.json)
+* [PDF](PDFs/AnimatedIceDragon.pdf)
+
 ### Animated Ice Nymph
+
+![Animated Ice Nymph](PNGs/AnimatedIceNymph.png)
+
+* [PF2 Tools JSON](PF2Tools/AnimatedIceNymph.json)
+* [PDF](PDFs/AnimatedIceNymph.pdf)
