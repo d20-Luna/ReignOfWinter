@@ -169,24 +169,6 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - [Rohkar Cindren](Creatures/README.md#rohkar-cindren)
   - 2x [Frost Skeleton Guards](https://2e.aonprd.com/Monsters.aspx?ID=3193) (Add Blaze ability, but switched to Cold)
-- **Loot:**
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706)
-  - [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330)
-  - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42)
-  - [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
-  - 10x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
-  - [Infiltrator's Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758)
-  - ring of keys (trapdoor in H7, chest in H11, cage in H16)
-  - stolen spellbook containing:
-    - [Bullhorn](https://2e.aonprd.com/Spells.aspx?ID=1971)
-    - [Illuminate](https://2e.aonprd.com/Spells.aspx?ID=1359)
-    - [Message](https://2e.aonprd.com/Spells.aspx?ID=1598)
-    - [Phase Bolt](https://2e.aonprd.com/Spells.aspx?ID=2576)
-    - [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500)
-    - [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536))
-  - [Wooden Religious Symbol](https://2e.aonprd.com/Equipment.aspx?ID=2745)
-  - 15 gp
-  - [Cloak of the Yeti](Items/README.md#cloak-of-the-yeti)
 
 ### H16. Storeroom
 - **Creatures:**
