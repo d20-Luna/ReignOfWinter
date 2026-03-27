@@ -282,6 +282,7 @@ Level | XP Progression          | Milestone
 - Freta - Blunderbuss, Flintlock Pistol, and Flintlock Musket combine and become [Malefic Borer, Ravager of the Corrupted](Treasure/README.md#malefic-borer-ravager-of-the-corrupted)
 - Vrassketh - Wish Knives become [Wishful Waves](Treasure/README.md#wishful-waves)
 - Thresh - Scale Mail becomes [Ulgrem Scale](Treasure/README.md#ulgrem-scale)
+- ??? - Gains a necklace for Eidolon [Vitalizing Prism](Treasure/README.md#vitalizing-prism)
 
 ## Part 3: Land of the White Witches
 
