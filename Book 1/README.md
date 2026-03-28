@@ -369,7 +369,7 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Mig Epsel - [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817)
 - **Loot:**
-  - [Conspirator's Cookie](https://2e.aonprd.com/Equipment.aspx?ID=3520)
+  - [Prankster's Perpetual Pieplate](https://2e.aonprd.com/Equipment.aspx?ID=3577)
 
 ### Q10. Empty Bedroom
 
