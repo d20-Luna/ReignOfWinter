@@ -140,22 +140,22 @@ Level | XP Progression          | Milestone
 ### H11. Rohkar's Room
 - **Loot:**
   - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765)
-  - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754)
+  - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754) 🔥
   - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring
   - 3x [Tiger’s Eye](https://2e.aonprd.com/Rules.aspx?ID=3228)
   - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with hidden compartment containing:
-    - 1x [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334))
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517)
-  - 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
+    - 1x [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334)) 🔥
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517) 🔥
+  - 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658) 🔥
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631) 🔥
 
 ### H12. Ten-Penny's Room
 - **Loot:**
-  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727)
+  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727) 🔥
   - belt pouch containing:
     - 2 sp
     - 5 cp
-  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943) 🔥
 
 ### H13. Great Room
 - **Creatures:**
@@ -174,19 +174,21 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Vrixx - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 - **Loot:**
-  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706)
-  - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330)
+  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706) 🔥
+  - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330) 🔥
   - lockbox containing:
     - 3 pp
     - 15 gp
     - 18 sp
     - blue quartz "ice diamond" (worth 10 gp))
-  - 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936)
+  - 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936) 🔥
   - 10x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
 
 ### H17. Cellar
 - **Creatures:**
   - Lady Argentea Malassene - [Noble](https://2e.aonprd.com/NPCs.aspx?ID=3418)
+  or
+  - Gardhek - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126)
 - **Loot:**
   - coin purse containing:
     - 500 gp
@@ -282,7 +284,7 @@ Level | XP Progression          | Milestone
 - Freta - Blunderbuss, Flintlock Pistol, and Flintlock Musket combine and become [Malefic Borer, Ravager of the Corrupted](Treasure/README.md#malefic-borer-ravager-of-the-corrupted)
 - Vrassketh - Wish Knives become [Wishful Waves](Treasure/README.md#wishful-waves)
 - Thresh - Scale Mail becomes [Ulgrem Scale](Treasure/README.md#ulgrem-scale)
-- ??? - Gains a necklace for Eidolon [Vitalizing Prism](Treasure/README.md#vitalizing-prism)
+- Pix - Gains a necklace for Eidolon [Vitalizing Prism](Treasure/README.md#vitalizing-prism)
 
 ## Part 3: Land of the White Witches
 
