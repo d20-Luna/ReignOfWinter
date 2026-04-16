@@ -156,6 +156,9 @@ Level | XP Progression          | Milestone
     - 2 sp
     - 5 cp
   - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943) 🔥
+  - 3x Invisibility Potion 🔥
+  - 1x Gecko Potion 🔥
+  - 1x Lesser Glue Bomb 🔥
 
 ### H13. Great Room
 - **Creatures:**
