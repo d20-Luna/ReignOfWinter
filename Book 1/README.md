@@ -190,8 +190,6 @@ Level | XP Progression          | Milestone
 ### H17. Cellar
 - **Creatures:**
   - Lady Argentea Malassene - [Noble](https://2e.aonprd.com/NPCs.aspx?ID=3418)
-  or
-  - Gardhek - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126)
 - **Loot:**
   - coin purse containing:
     - 500 gp
@@ -428,7 +426,7 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Ritual Backlash](Hazards/README.md#ritual-backlash)
 - **Creatures:**
-  - [Radosek Pavril](Creatures/README.md#radosek-pavril)
+  - [Radosek Pavril](Creatures/README.md#radosek-pavril) [speed is 25 feet, forgot to add to file]
   - [Valstoi](Creatures/README.md#valstoi)
 - **Loot:**
   - [Walking Cauldron](https://2e.aonprd.com/Equipment.aspx?ID=3116)
