@@ -42,6 +42,12 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 * [PDF](IcyBridge.pdf)
 
+## Q20. Ritual Chamber
+
+![Ritual Backlash](RitualBacklash.png)
+
+* [PDF](RitualBacklash.pdf)
+
 ## Q24. Vault
 
 ### Curse of Rapid Decline
