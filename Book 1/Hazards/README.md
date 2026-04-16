@@ -42,6 +42,14 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 * [PDF](IcyBridge.pdf)
 
+## P5. Portal of Endless Winter
+
+### Portal of Endless Winter
+
+![Portal of Endless Winter](PortalOfEndlessWinter.png)
+
+* [PDF](PortalOfEndlessWinter.pdf)
+
 ## Q20. Ritual Chamber
 
 ### Ritual Backlash
