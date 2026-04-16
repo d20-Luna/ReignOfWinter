@@ -272,6 +272,8 @@ Level | XP Progression          | Milestone
 
 
 ### P5. Portal of Endless Winter
+- **Hazards:**
+  - [Portal of Endless Winter](Hazards/README.md#portal-of-endless-winter)
 - **Creatures:**
   - Teb Knotten - [Weak Ice Troll](https://2e.aonprd.com/Monsters.aspx?ID=4591&Weak=true&NoRedirect=1)
 
