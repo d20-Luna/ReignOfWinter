@@ -44,6 +44,8 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 ## Q20. Ritual Chamber
 
+### Ritual Backlash
+
 ![Ritual Backlash](RitualBacklash.png)
 
 * [PDF](RitualBacklash.pdf)
