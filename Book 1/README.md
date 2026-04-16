@@ -422,6 +422,8 @@ Level | XP Progression          | Milestone
   - 3x Blue Quartz worth 10 gp each
 
 ### Q20. Ritual Chamber
+- **Hazards:**
+  - [Ritual Backlash](Hazards/README.md#ritual-backlash)
 - **Creatures:**
   - [Radosek Pavril](Creatures/README.md#radosek-pavril)
   - [Valstoi](Creatures/README.md#valstoi)
