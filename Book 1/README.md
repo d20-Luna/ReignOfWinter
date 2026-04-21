@@ -198,7 +198,7 @@ Level | XP Progression          | Milestone
 
 ## I. Ancient Invaders
 - **Creatures:**
-  - 3x [Frost Skeleton Guards](https://2e.aonprd.com/Monsters.aspx?ID=3193) (Add Blaze ability, but switched to Cold)
+  - 3x [Frost Skeleton Soldiers](https://2e.aonprd.com/Monsters.aspx?ID=1900) (Add Blaze ability, but switched to Cold)
 
 ## J. Slain Hunter
 - **Loot:**
