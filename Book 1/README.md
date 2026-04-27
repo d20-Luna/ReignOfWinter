@@ -216,7 +216,7 @@ Level | XP Progression          | Milestone
 
 ## L. Bear Traps
 - **Hazards:**
-  - 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364)
+  - 2x [Biting Snares](https://2e.aonprd.com/Equipment.aspx?ID=3364) (Stealth DC 19)
 
 ## M. The Soulbound Guardian
 
