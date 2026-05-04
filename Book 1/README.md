@@ -238,7 +238,9 @@ Level | XP Progression          | Milestone
 ## O. Ambush!
 - **Creatures:**
   - Squald - [Despairing Pall](https://2e.aonprd.com/Monsters.aspx?ID=2617)
-  - Hommelstaub - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
+  - Izoze - [Elite Ice Mephit](https://2e.aonprd.com/Monsters.aspx?ID=660&Elite=true&NoRedirect=1)
+    or
+    Hommelstaub - [Winter-Touched Draxie](https://2e.aonprd.com/Monsters.aspx?ID=3211) (Immunity to Cold, Weakness 5 to fire, Attacks deal inflict slowed 1 for 1 round (DC 20))
 
 ## P. The Winter Portal
 
