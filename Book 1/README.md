@@ -41,14 +41,14 @@ Level | XP Progression          | Milestone
 
 ### A1. Wrecked Carriage
 
-- **Loot:**
+- **Treasure:**
   - 9 gp worth of courtier's outfits
 
 ### A2. Locked Carriage
 
 - **Creatures:**
   - 2x [Zombie Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=3249)
-- **Loot:**
+- **Treasure:**
   - earrings worth 2 gp 5 sp
   - bracelets worth 9 gp
   - gold and silver necklaces worth 7 gp 5 sp
@@ -56,14 +56,14 @@ Level | XP Progression          | Milestone
 
 ### A3. Ice Statue
 
-- **Loot:**
+- **Treasure:**
   - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=386)
 
 ## B. Trailside Trap
 
 - **Hazards:**
   - [Spiked Log Trap](Hazards/README.MD#spiked-log-trap)
-- **Loot:**
+- **Treasure:**
   - 5x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41)
   - 3x [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42)
   - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=43)
@@ -107,7 +107,7 @@ Level | XP Progression          | Milestone
   - [Frozen Creek](Hazards/README.md#frozen-creek)
 
 ### F3. Dead Body
-- **Loot:**
+- **Treasure:**
   - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Composite Longbow](https://2e.aonprd.com/Weapons.aspx?ID=434)
   - 12x [Arrows](https://2e.aonprd.com/Weapons.aspx?ID=443)
   - [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
@@ -137,7 +137,7 @@ Level | XP Progression          | Milestone
   - Ten-Penny Tacey - [Dromaar Mountaineer](https://2e.aonprd.com/NPCs.aspx?ID=3131) (Replace pick with dagger, bolas with a +1 hand crossbow, and give 12 bolts and a short sword)
 
 ### H11. Rohkar's Room
-- **Loot:**
+- **Treasure:**
   - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765)
   - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754) 🔥
   - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring
@@ -149,7 +149,7 @@ Level | XP Progression          | Milestone
   - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631) 🔥
 
 ### H12. Ten-Penny's Room
-- **Loot:**
+- **Treasure:**
   - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727) 🔥
   - belt pouch containing:
     - 2 sp
@@ -175,7 +175,7 @@ Level | XP Progression          | Milestone
 ### H16. Storeroom
 - **Creatures:**
   - Vrixx - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
-- **Loot:**
+- **Treasure:**
   - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706) 🔥
   - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330) 🔥
   - lockbox containing:
@@ -189,7 +189,7 @@ Level | XP Progression          | Milestone
 ### H17. Cellar
 - **Creatures:**
   - Lady Argentea Malassene - [Noble](https://2e.aonprd.com/NPCs.aspx?ID=3418)
-- **Loot:**
+- **Treasure:**
   - coin purse containing:
     - 500 gp
 
@@ -200,7 +200,7 @@ Level | XP Progression          | Milestone
   - 3x [Frost Skeleton Soldiers](https://2e.aonprd.com/Monsters.aspx?ID=1900) (Add Blaze ability, but switched to Cold)
 
 ## J. Slain Hunter
-- **Loot:**
+- **Treasure:**
   - [Snowshoes](https://2e.aonprd.com/Equipment.aspx?ID=876)
   - 2x [Lesser Animal-Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895)
   - bloodstained pack containing:
@@ -257,7 +257,7 @@ Level | XP Progression          | Milestone
   - 2x [Winter-Touched Sprites](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 
 ### P4. Natural Cave
-- **Loot:**
+- **Treasure:**
   - Lockbox (DC 19 Thievery to unlock) containing
     - 4x [Sure-Step Potions](https://2e.aonprd.com/Equipment.aspx?ID=2094) in an iron coffer
     - 4 blue quartz “ice diamonds” work 10 gp each
@@ -282,7 +282,7 @@ Level | XP Progression          | Milestone
 
 ## The Mantle of the Black Rider
 
-- **Loot:**
+- **Treasure:**
 - Every player character gains 1 free Ability Score Increase
 - Taxus Yew - Staff becomes [Staff of Gentle Rebirth](Treasure/README.md#staff-of-gentle-rebirth)
 - Freta - Blunderbuss, Flintlock Pistol, and Flintlock Musket combine and become [Malefic Borer, Ravager of the Corrupted](Treasure/README.md#malefic-borer-ravager-of-the-corrupted)
@@ -344,7 +344,7 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Bordegga - [Ice Troll](https://2e.aonprd.com/Monsters.aspx?ID=4591)
   - [Animated Ice Dragon](Creatures/README.md#animated-ice-dragon)
-- **Loot:**
+- **Treasure:**
   - 50 gp
 
 ### Q3. Entrance Hall
@@ -363,7 +363,7 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Sergeant Yana Dultzev - [Watch Officer](https://2e.aonprd.com/NPCs.aspx?ID=936)
   - 4x [Guards](https://2e.aonprd.com/NPCs.aspx?ID=3551)
-- **Loot:**
+- **Treasure:**
   - Key to Ice Crystal Teleporter in Q5
 
 ### Q8. Dining Hall
@@ -374,7 +374,7 @@ Level | XP Progression          | Milestone
 ### Q9. Kitchen
 - **Creatures:**
   - Mig Epsel - [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817)
-- **Loot:**
+- **Treasure:**
   - [Prankster's Perpetual Pieplate](https://2e.aonprd.com/Equipment.aspx?ID=3577)
 
 ### Q10. Empty Bedroom
@@ -398,7 +398,7 @@ Level | XP Progression          | Milestone
 ### Q15. Ice Crystal Teleporter
 
 ### Q16. Hestrig's Bedroom
-- **Loot:**
+- **Treasure:**
   - Chest (DC 23 Thievery to unlock) containing:
     - [Truth Potion](https://2e.aonprd.com/Equipment.aspx?ID=2961)
     - 3x [Moderate Potion of Retaliation (Cold)](https://2e.aonprd.com/Equipment.aspx?ID=3404)
@@ -417,7 +417,7 @@ Level | XP Progression          | Milestone
 ### Q18. Jairess' Bedroom
 
 ### Q19. Storeroom
-- **Loot:**
+- **Treasure:**
   - [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=2829) [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
   - Jade Bracelet worth 18 gp
   - 2x Porcelain Dolls worth 4 gp each
@@ -431,7 +431,7 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - [Radosek Pavril](Creatures/README.md#radosek-pavril) [speed is 25 feet, forgot to add to file]
   - [Valstoi](Creatures/README.md#valstoi)
-- **Loot:**
+- **Treasure:**
   - [Walking Cauldron](https://2e.aonprd.com/Equipment.aspx?ID=3116)
   - 2x [Lesser Acid Flask](https://2e.aonprd.com/Equipment.aspx?ID=3286)
   - 3x [Lesser Alchemist’s Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
@@ -447,7 +447,7 @@ Level | XP Progression          | Milestone
 ### Q21. Empty Bedroom
 
 ### Q22. Radosek's Bedroom
-- **Loot:**
+- **Treasure:**
   - Art worth 50 gp
 
 ### Q23. Nazhena's Bedroom
@@ -455,7 +455,7 @@ Level | XP Progression          | Milestone
 ### Q24. Vault
 - **Hazards:**
   - [Curse of Rapid Decline](Hazards/README.md#curse-of-rapid-decline)
-- **Loot:**
+- **Treasure:**
   - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
   - [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962)
     2x [Translate](https://2e.aonprd.com/Spells.aspx?ID=1723)
