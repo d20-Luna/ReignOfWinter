@@ -285,6 +285,7 @@ Level | XP Progression          | Milestone
 ## The Mantle of the Black Rider
 
 - **Treasure:**
+- [Item Scaling](https://scribe.pf2.tools/v/y2b1ySoD-gift-scaling)
 - Every player character gains 1 free Ability Score Increase
 - Taxus Yew - Staff becomes [Staff of Gentle Rebirth](Treasure/README.md#staff-of-gentle-rebirth)
 - Freta - Blunderbuss, Flintlock Pistol, and Flintlock Musket combine and become [Malefic Borer, Ravager of the Corrupted](Treasure/README.md#malefic-borer-ravager-of-the-corrupted)
