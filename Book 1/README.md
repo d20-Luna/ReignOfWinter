@@ -192,6 +192,8 @@ Level | XP Progression          | Milestone
 - **Treasure:**
   - coin purse containing:
     - 500 gp
+   
+# LEVEL 2
 
 ## Part 2: The Depths of Winter
 
@@ -289,6 +291,8 @@ Level | XP Progression          | Milestone
 - Vrassketh - Wish Knives become [Wishful Waves](Treasure/README.md#wishful-waves)
 - Thresh - Scale Mail becomes [Ulgrem Scale](Treasure/README.md#ulgrem-scale)
 - Pix - Gains a necklace for Eidolon [Vitalizing Prism](Treasure/README.md#vitalizing-prism)
+
+# LEVEL 3
 
 ## Part 3: Land of the White Witches
 
@@ -480,6 +484,8 @@ Level | XP Progression          | Milestone
   - [Ring of Sustenance](https://2e.aonprd.com/Equipment.aspx?ID=3106)
 
 ## Closing the Winter Portal
+
+# LEVEL 4
 
 ## Concluding the Adventure
 
