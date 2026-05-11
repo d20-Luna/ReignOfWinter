@@ -31,7 +31,7 @@ Level | XP Progression          | Milestone
 1     | PCs begin at Lv 1       | PCs begin at Lv 1
 2     | After completing Part 1 | After completing Part 1
 3     | After completing Part 2 | After completing Part 2
-4     | After completing Part 3 | After completing Part 3
+4     | After completing Part 4 | After completing Part 4
 
 ## Part 1: An Early Frost
 
