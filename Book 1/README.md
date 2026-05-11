@@ -428,6 +428,8 @@ Level | XP Progression          | Milestone
   - Silver Medallion worth 30 gp
   - Gold Signet Ring worth 25 gp
   - 3x Blue Quartz worth 10 gp each
+ 
+#  LEVEL 4
 
 ### Q20. Ritual Chamber
 - **Hazards:**
@@ -484,8 +486,6 @@ Level | XP Progression          | Milestone
   - [Ring of Sustenance](https://2e.aonprd.com/Equipment.aspx?ID=3106)
 
 ## Closing the Winter Portal
-
-# LEVEL 4
 
 ## Concluding the Adventure
 
