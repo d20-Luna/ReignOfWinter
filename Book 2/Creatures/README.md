@@ -6,7 +6,19 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 ## Named NPCs
 
-### 
+### The Gobbler
+
+![The Gobbler](PNGs/TheGobbler.png)
+
+* [PF2 Tools JSON](PF2Tools/TheGobbler.json)
+* [PDF](PDFs/TheGobbler.pdf)
+
+### Granny Nan
+
+![Granny Nan](PNGs/GrannyNan.png)
+
+* [PF2 Tools JSON](PF2Tools/GrannyNan.json)
+* [PDF](PDFs/GrannyNan.pdf)
 
 ## New Creatures
 
@@ -30,3 +42,48 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 * [PF2 Tools JSON](PF2Tools/FalconCompanion.json)
 * [PDF](PDFs/FalconCompanion.pdf)
+
+### Mindslaver Mold
+
+![Mindslaver Mold](PNGs/MindslaverMold.png)
+
+* [PF2 Tools JSON](PF2Tools/MindslaverMold.json)
+* [PDF](PDFs/MindslaverMold.pdf)
+
+### Winter Quickling
+
+![Winter Quickling](PNGs/WinterQuickling.png)
+
+* [PF2 Tools JSON](PF2Tools/WinterQuickling.json)
+* [PDF](PDFs/WinterQuickling.pdf)
+
+### Winter Twigjack
+
+![Winter Twigjack](PNGs/WinterTwigjack.png)
+
+* [PF2 Tools JSON](PF2Tools/WinterTwigjack.json)
+* [PDF](PDFs/WinterTwigjack.pdf)
+
+### Faun
+
+![Faun](PNGs/Faun.png)
+
+* [PF2 Tools JSON](PF2Tools/Faun.json)
+* [PDF](PDFs/Faun.pdf)
+
+### Freshwater Merrow
+
+![Freshwater Merrow](PNGs/FreshwaterMerrow.png)
+
+* [PF2 Tools JSON](PF2Tools/FreshwaterMerrow.json)
+* [PDF](PDFs/FreshwaterMerrow.pdf)
+
+### Mirrow Man
+
+![Mirror Man](PNGs/MirrorMan.png)
+
+* [PF2 Tools JSON](PF2Tools/MirrorMan.json)
+* [PDF](PDFs/MirrorMan.pdf)
+
+
+
