@@ -17,3 +17,7 @@ Very rarely, a properly skinned winter wolf pelt manifests the properties of a r
 In either wolf or human form, the wearer of a rimepelt smells like a winter wolf to other winter wolves and creatures with the scent ability.
 
 When the wearer returns to his normal form from assuming Winter Wolf form, or after 2 hours have elapsed, the rimepelt becomes a mundane winter wolf pelt.
+
+## Insidious Bear Trap
+
+## Ushanka of the Northlands
