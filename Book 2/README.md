@@ -106,7 +106,7 @@ Level | XP Progression           | Milestone
 
 ## E. Troll Bridge
 **Creatures**
-- 3x [Freshwater Merrows](Creatures/README.md#freshwater-merrows)
+- 3x [Freshwater Merrows](Creatures/README.md#freshwater-merrow)
 
 **Treasure**
 - 3x [Vine Arrows](https://2e.aonprd.com/Equipment.aspx?ID=2929)
