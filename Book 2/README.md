@@ -46,7 +46,7 @@ Level | XP Progression           | Milestone
 ## Event 4: Nazhena's Hunters
 **Creatures**
 - Norgrimm [Witchwarg](https://2e.aonprd.com/Monsters.aspx?ID=3231)
-- 4x [Winter Guard Falconers](Creatures/README.md#winter-guard-falconer) each with a [Bird](https://2e.aonprd.com/AnimalCompanions.aspx?ID=71) Companion
+- 4x [Winter Guard Falconers](Creatures/README.md#winter-guard-falconer) each with a [Falcon Companion](Creatures/README.md#falcon-companion)
 
 **Treasure**
 - [Rimepelt](Items/README.md#rimepelt)
