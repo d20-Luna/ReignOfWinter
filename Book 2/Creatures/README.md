@@ -23,3 +23,10 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 * [PF2 Tools JSON](PF2Tools/WinterGuardFalconer.json)
 * [PDF](PDFs/WinterGuardFalconer.pdf)
+
+### Falcon Companion
+
+![Falcon Companion](PNGs/FalconCompanion.png)
+
+* [PF2 Tools JSON](PF2Tools/FalconCompanion.json)
+* [PDF](PDFs/FalconCompanion.pdf)
