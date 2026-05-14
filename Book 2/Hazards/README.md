@@ -15,3 +15,9 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 ![Frozen Clocktower](FrozenClocktower.png)
 
 * [PDF](FrozenClocktower.pdf)
+
+### Falling Tree Trap
+
+![Falling Tree Trap](FallingTreeTrap.png)
+
+* [PDF](FallingTreeTrap.pdf)
