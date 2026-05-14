@@ -134,7 +134,7 @@ Level | XP Progression           | Milestone
 - [Dart Launcher](https://2e.aonprd.com/Hazards.aspx?ID=399)
 
 **Treasure**
-- 1x [Wand]() of [Gecko Grip]()y
+- 1x [Wand]() of [Gecko Grip](https://2e.aonprd.com/Spells.aspx?ID=1541)
 - Small Pouch containing:
   - 4x uncut rubies worth 5 gp each
   - 18 gp
@@ -279,9 +279,9 @@ Level | XP Progression           | Milestone
 - 1x [Lesser Reinforcing](https://2e.aonprd.com/Equipment.aspx?ID=2811) [Wooden Shield](https://2e.aonprd.com/Shields.aspx?ID=18)
 - 1x [Standard-Grade Adamantine](https://2e.aonprd.com/Equipment.aspx?ID=2855) [Warhammer](https://2e.aonprd.com/Weapons.aspx?ID=403)
 - 1x [Jade Serpant Wondrous Figurine](https://2e.aonprd.com/Equipment.aspx?ID=270)
-- 1x [Scroll]() of [Invisibility]()
-- 1x [Scroll]() of [Blazing Bolt]()
-- 1x [Scroll]() of [See the Unseen]()
+- 1x [Scroll]() of [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577)
+- 1x [Scroll]() of [Blazing Bolt](https://2e.aonprd.com/Spells.aspx?ID=1450)
+- 1x [Scroll]() of [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663)
 - 1x [Wand of Hopeless Night (2nd-Rank)](https://2e.aonprd.com/Equipment.aspx?ID=3425)
 - 1x [Wand of Shardstorm (1st-Rank)](https://2e.aonprd.com/Equipment.aspx?ID=3052)
 - 1x Gold Censer worth 50 gp
@@ -296,40 +296,129 @@ Level | XP Progression           | Milestone
 ## M. Market Square
 
 ## M1. Forest Entrance
+**Creatures**
+- 3x [Ice Trolls](https://2e.aonprd.com/Monsters.aspx?ID=4591)
 
 ## M2. Font of Water
+**Hazards**
+- [Font of Water](Hazards/README.md#font-of-water)
+
+**Creatures**
+- Auraenos - [Dawn Piper](Creatures/README.md#dawn-piper)
+- Wortleby - [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817)
+
+**Treasure**
+- 10x Freshwater Pearls worth 40 each
 
 ## M3. Tricks and Traps
+**Hazards**
+- [Falling Tree Trap](Hazards/README.md#falling-tree-trap)
+
+**Creatures**
+- 2x [Nuglub Gremlins](https://2e.aonprd.com/Monsters.aspx?ID=689)
+
+**Treasure**
+- 3x [Moderate Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+- 40 gp
+- 1x Gold Locket worth 5 gp
+- 1x Silver Necklace worth 3 gp with a Pearl Pendant
+  - Pearl is actually a [Pearly White Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=3055)
 
 ## M4. The Reality Siphon
+**Hazards**
+- [Wild Magic](https://2e.aonprd.com/Rules.aspx?ID=1879)
+
+**Creatures**
+- [Controlled Thresh](Creatures/README.md#controlled-thresh)
+- [Controlled Issara](Creatures/README.md#controlled-issara)
 
 ## M5. Tottering Treehouse
+**Hazard**
+- [Tottering Treehouse](Hazards/README.md#tottering-treehouse)
+
+**Treasure**
+- 1x [Bands of Force](https://2e.aonprd.com/Equipment.aspx?ID=3058)
 
 ## M6. Altar of Earth
+**Hazards**
+- [Altar of Earth](Hazards/README.md#altar-of-earth)
+
+**Creatures**
+- Ravathiel - [Dawn Piper](Creatures/README.md#dawn-piper)
 
 ## M7. Heart Hunters
+**Creatures**
+- 2x [Perytons](https://2e.aonprd.com/Monsters.aspx?ID=757)
 
 ## M8. Flaming Font
+**Hazards**
+- [Flaming Font](Hazards/README.md#flaming-font)
+
+**Creatures**
+- Incedis - [Dawn Piper](Creatures/README.md#dawn-piper)
+- [Thoqqua](https://2e.aonprd.com/Monsters.aspx?ID=2185)
 
 ## M9. The Last Party
+**Creatures**
+- 3x [Baccae](Creatures/README.md#baccae)
+- 3x [Charmed Merchants](https://2e.aonprd.com/NPCs.aspx?ID=3412)
 
 ## M10. The Sky Tree
+**Hazards**
+- [The Sky Tree](Hazards/README.md#the-sky-tree)
+
+**Creatures**
+- Sliverthorn - [Twigjack](https://2e.aonprd.com/Monsters.aspx?ID=3222)
+- Zephimere - [Dawn Piper](Creatures/README.md#dawn-piper)
+
+**Treasure**
+- [Staff of Elemental Power](https://2e.aonprd.com/Equipment.aspx?ID=3040)
 
 ## M11. The Dancing Hut
+**Hazards**
+- [The Dancing Hut](Hazards/README.md#the-dancing-hut)
+
+**Creatures**
+- 1x [Ice Golem](https://2e.aonprd.com/Monsters.aspx?ID=683)
+- [Nazhena Vasilliovna](Creatures/README.md#nazhena-vasilliovna)
 
 ## Part 5: The Dancing Hut of Baba Yaga
 
 ## N. Baba Yaga's Dancing Hut
+**Creatures**
+- [The Dancing Hut of Baba Yaga](Creatures/README.md#the-dancing-hut-of-baba-yaga)
+
+**Treasure**
+- [The Dancing Hut of Baba Yaga](Items/README.md#the-dancing-hut-of-baba-yaga)
 
 ## N1. Cauldron Room
+**Hazards**
+- [Glyph of Warding](Hazards/README.md#glyph-of-warding)
+
+**Creatures**
+- [Zorka](Creatures/README.md#zorka)
+
+**Treasure**
+- 
 
 ## N2. Library
+**Treasure**
+- 
 
 ## N3. Map Room
+**Creatures**
+- [Charnel Creation](https://2e.aonprd.com/Monsters.aspx?ID=2878)
+
+**Treasure**
+- 
 
 ## N4. Root Cellar
+**Treasure**
+- 
 
 ## N5. Loft
+**Treasure**
+- Any mundane supply needed
 
 ## Concluding the Adventure
 
