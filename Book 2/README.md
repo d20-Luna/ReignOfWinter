@@ -41,15 +41,15 @@ Level | XP Progression           | Milestone
 
 ## Event 3: Little Boy Lost
 **Creatures**
-- 3x [Boreal Wolves](Creatures/README.md#boreal-wolf)
+- 3x [Boreal Wolves^](Creatures/README.md#boreal-wolf)
 
 ## Event 4: Nazhena's Hunters
 **Creatures**
 - Norgrimm [Witchwarg](https://2e.aonprd.com/Monsters.aspx?ID=3231)
-- 4x [Winter Guard Falconers](Creatures/README.md#winter-guard-falconer) each with a [Falcon Companion](Creatures/README.md#falcon-companion)
+- 4x [Winter Guard Falconers^](Creatures/README.md#winter-guard-falconer) each with a [Falcon Companion^](Creatures/README.md#falcon-companion)
 
 **Treasure**
-- [Rimepelt](Items/README.md#rimepelt)
+- [Rimepelt^](Items/README.md#rimepelt)
 
 ## A. The Wood-Wife's Plight
 
@@ -60,10 +60,10 @@ Level | XP Progression           | Milestone
 ## A2. Mossy Cave
 **Creatures**
 - Finngarth - Use statistics for an [Elite Construction Worker](https://2e.aonprd.com/NPCs.aspx?ID=3498&Elite=true)
-- [Mindslaver Mold](Creatures/README.md#mindslaver-mold)
+- [Mindslaver Mold^](Creatures/README.md#mindslaver-mold)
 
 **Treasure**
-- 1x [Insidious Bear Trap](Items/README.md#insidious-bear-trap)
+- 1x [Insidious Bear Trap^](Items/README.md#insidious-bear-trap)
 
 ## B. Pocket of Summer
 **Creatures**
@@ -75,7 +75,7 @@ Level | XP Progression           | Milestone
 - 2x [Herexens](https://2e.aonprd.com/Monsters.aspx?ID=3049)
 
 **Hazards**
-- [The Children of Ulsgaard](Hazards/README.md#the-children-of-ulsgaard)
+- [The Children of Ulsgaard^](Hazards/README.md#the-children-of-ulsgaard)
 
 **Treasure**
 - 1x Stone Coffer containing:
@@ -92,21 +92,21 @@ Level | XP Progression           | Milestone
 
 ## D1. Besieged Cottage
 **Creatures**
-- Faernip - [Winter Quickling](Creatures/README.md#winter-quickling)
-- Tindlecrick - [Winter Twigjack](Creatures/README.md#winter-twigjack)
+- Faernip - [Winter Quickling^](Creatures/README.md#winter-quickling)
+- Tindlecrick - [Winter Twigjack^](Creatures/README.md#winter-twigjack)
 
 ## D2. Abandoned Barn
 **Creatures**
-- Zzababa - [Winter Quickling](Creatures/README.md#winter-quickling)
-- Garen - [Faun](Creatures/README.md#faun)
+- Zzababa - [Winter Quickling^](Creatures/README.md#winter-quickling)
+- Garen - [Faun^](Creatures/README.md#faun)
 
 **Treasure**
 - 50 gp
-- 1x [Ushanka of the Northlands](Items/README.md#ushanka-of-the-northlands)
+- 1x [Ushanka of the Northlands^](Items/README.md#ushanka-of-the-northlands)
 
 ## E. Troll Bridge
 **Creatures**
-- 3x [Freshwater Merrows](Creatures/README.md#freshwater-merrow)
+- 3x [Freshwater Merrows^](Creatures/README.md#freshwater-merrow)
 
 **Treasure**
 - 3x [Vine Arrows](https://2e.aonprd.com/Equipment.aspx?ID=2929)
@@ -182,7 +182,7 @@ Level | XP Progression           | Milestone
 
 ## G9. Checkpoint
 **Creatures**
-- 2x [Mirror Men](Creatures/README.md#mirror-man)
+- 2x [Mirror Men^](Creatures/README.md#mirror-man)
 
 ## Part 3: The Dragon of Whitethrone
 
@@ -251,7 +251,7 @@ Level | XP Progression           | Milestone
 
 ## L10. Kitchen
 **Creatures**
-- [The Gobbler](Creatures/README.md#the-gobbler)
+- [The Gobbler^](Creatures/README.md#the-gobbler)
 
 **Treasure**
 - 1x [Bountiful Cauldron](https://2e.aonprd.com/Equipment.aspx?ID=506)
@@ -262,7 +262,7 @@ Level | XP Progression           | Milestone
 
 ## L15. Granny Nan's Room
 **Creatures**
-- [Granny Nan](Creatures/README.md#granny-nan)
+- [Granny Nan^](Creatures/README.md#granny-nan)
 - Evija - [Attic Whisperer](https://2e.aonprd.com/Monsters.aspx?ID=4090)
 
 **Treasure**
@@ -270,7 +270,7 @@ Level | XP Progression           | Milestone
 
 ## L18. Logrivich's Lair
 **Hazards**
-- [Frozen Clocktower](Hazards/README.md#frozen-clocktower)
+- [Frozen Clocktower^](Hazards/README.md#frozen-clocktower)
 
 **Creatures**
 - Logrivich - [Young Rime Dragon](https://2e.aonprd.com/Monsters.aspx?ID=4158)
@@ -301,10 +301,10 @@ Level | XP Progression           | Milestone
 
 ## M2. Font of Water
 **Hazards**
-- [Font of Water](Hazards/README.md#font-of-water)
+- [Font of Water^](Hazards/README.md#font-of-water)
 
 **Creatures**
-- Auraenos - [Dawn Piper](Creatures/README.md#dawn-piper)
+- Auraenos - [Dawn Piper^](Creatures/README.md#dawn-piper)
 - Wortleby - [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817)
 
 **Treasure**
@@ -312,7 +312,7 @@ Level | XP Progression           | Milestone
 
 ## M3. Tricks and Traps
 **Hazards**
-- [Falling Tree Trap](Hazards/README.md#falling-tree-trap)
+- [Falling Tree Trap^](Hazards/README.md#falling-tree-trap)
 
 **Creatures**
 - 2x [Nuglub Gremlins](https://2e.aonprd.com/Monsters.aspx?ID=689)
@@ -329,22 +329,22 @@ Level | XP Progression           | Milestone
 - [Wild Magic](https://2e.aonprd.com/Rules.aspx?ID=1879)
 
 **Creatures**
-- [Controlled Thresh](Creatures/README.md#controlled-thresh)
-- [Controlled Issara](Creatures/README.md#controlled-issara)
+- [Controlled Thresh^](Creatures/README.md#controlled-thresh)
+- [Controlled Issara^](Creatures/README.md#controlled-issara)
 
 ## M5. Tottering Treehouse
 **Hazard**
-- [Tottering Treehouse](Hazards/README.md#tottering-treehouse)
+- [Tottering Treehouse^](Hazards/README.md#tottering-treehouse)
 
 **Treasure**
 - 1x [Bands of Force](https://2e.aonprd.com/Equipment.aspx?ID=3058)
 
 ## M6. Altar of Earth
 **Hazards**
-- [Altar of Earth](Hazards/README.md#altar-of-earth)
+- [Altar of Earth^](Hazards/README.md#altar-of-earth)
 
 **Creatures**
-- Ravathiel - [Dawn Piper](Creatures/README.md#dawn-piper)
+- Ravathiel - [Dawn Piper^](Creatures/README.md#dawn-piper)
 
 ## M7. Heart Hunters
 **Creatures**
@@ -352,51 +352,51 @@ Level | XP Progression           | Milestone
 
 ## M8. Flaming Font
 **Hazards**
-- [Flaming Font](Hazards/README.md#flaming-font)
+- [Flaming Font^](Hazards/README.md#flaming-font)
 
 **Creatures**
-- Incedis - [Dawn Piper](Creatures/README.md#dawn-piper)
+- Incedis - [Dawn Piper^](Creatures/README.md#dawn-piper)
 - [Thoqqua](https://2e.aonprd.com/Monsters.aspx?ID=2185)
 
 ## M9. The Last Party
 **Creatures**
-- 3x [Baccae](Creatures/README.md#baccae)
+- 3x [Baccae^](Creatures/README.md#baccae)
 - 3x [Charmed Merchants](https://2e.aonprd.com/NPCs.aspx?ID=3412)
 
 ## M10. The Sky Tree
 **Hazards**
-- [The Sky Tree](Hazards/README.md#the-sky-tree)
+- [The Sky Tree^](Hazards/README.md#the-sky-tree)
 
 **Creatures**
 - Sliverthorn - [Twigjack](https://2e.aonprd.com/Monsters.aspx?ID=3222)
-- Zephimere - [Dawn Piper](Creatures/README.md#dawn-piper)
+- Zephimere - [Dawn Piper^](Creatures/README.md#dawn-piper)
 
 **Treasure**
 - [Staff of Elemental Power](https://2e.aonprd.com/Equipment.aspx?ID=3040)
 
 ## M11. The Dancing Hut
 **Hazards**
-- [The Dancing Hut](Hazards/README.md#the-dancing-hut)
+- [The Dancing Hut^](Hazards/README.md#the-dancing-hut)
 
 **Creatures**
 - 1x [Ice Golem](https://2e.aonprd.com/Monsters.aspx?ID=683)
-- [Nazhena Vasilliovna](Creatures/README.md#nazhena-vasilliovna)
+- [Nazhena Vasilliovna^](Creatures/README.md#nazhena-vasilliovna)
 
 ## Part 5: The Dancing Hut of Baba Yaga
 
 ## N. Baba Yaga's Dancing Hut
 **Creatures**
-- [The Dancing Hut of Baba Yaga](Creatures/README.md#the-dancing-hut-of-baba-yaga)
+- [The Dancing Hut of Baba Yaga^](Creatures/README.md#the-dancing-hut-of-baba-yaga)
 
 **Treasure**
-- [The Dancing Hut of Baba Yaga](Items/README.md#the-dancing-hut-of-baba-yaga)
+- [The Dancing Hut of Baba Yaga^](Items/README.md#the-dancing-hut-of-baba-yaga)
 
 ## N1. Cauldron Room
 **Hazards**
-- [Glyph of Warding](Hazards/README.md#glyph-of-warding)
+- [Glyph of Warding^](Hazards/README.md#glyph-of-warding)
 
 **Creatures**
-- [Zorka](Creatures/README.md#zorka)
+- [Zorka^](Creatures/README.md#zorka)
 
 **Treasure**
 - 
