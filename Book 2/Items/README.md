@@ -20,4 +20,9 @@ When the wearer returns to his normal form from assuming Winter Wolf form, or af
 
 ## Insidious Bear Trap
 
+**Level 8**
+
+This magical [biting snare](https://2e.aonprd.com/Equipment.aspx?ID=3364) can be commanded to turn invisible as per the [invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577) spell for up to 5 hours, or until triggered, whichever comes first. While invisible, it is completely undetectable save for through magical means; the user is able to see the snare at all times.
+
 ## Ushanka of the Northlands
+
