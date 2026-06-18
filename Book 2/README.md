@@ -106,7 +106,7 @@ Level | XP Progression           | Milestone
 
 ## E. Troll Bridge
 **Creatures**
-- 3x [Freshwater Merrows^](Creatures/README.md#freshwater-merrow)
+- 3x [Freshwater Merrows](https://2e.aonprd.com/Monsters.aspx?ID=3118) - Treat as an Ogre Warrior with the Amphibious and Aquatic traits
 
 **Treasure**
 - 3x [Vine Arrows](https://2e.aonprd.com/Equipment.aspx?ID=2929)
