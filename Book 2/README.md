@@ -8,9 +8,8 @@
 - [Part 3: The Dragon of Whitethrone](#part-3-the-dragon-of-whitethrone)
 - [Part 4: The Endless Forest](#part-4-the-endless-forest)
 - [Part 5: The Dancing Hut of Baba Yaga](#part-5-the-dancing-hut-of-baba-yaga)
-- [ Gazetteer](#-gazetteer)
-- [ Gazetteer](#-gazetteer)
-- [ Encounters](#-encounters)
+- [Whitethronw Gazetteer](#-gazetteer)
+- [Whitethrone Encounters](#-encounters)
 
 ## General GM Information
 
