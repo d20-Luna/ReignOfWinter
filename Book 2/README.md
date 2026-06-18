@@ -153,7 +153,7 @@ Level | XP Progression           | Milestone
 
 ## G3. Mirror, Mirror
 **Creatures**
-- 1x [Mirror Man](Creatures/README.md#mirror-man)
+- 1x [Mirror Man^](Creatures/README.md#mirror-man)
 
 ## G5. Wages of Sin
 **Creatures**
