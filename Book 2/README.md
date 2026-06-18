@@ -148,8 +148,8 @@ Level | XP Progression           | Milestone
 
 ## G2. The Back-Alley Boys
 **Creatures**
-- 3x Back-Alley Boys - [Snow Goblin Commandos](https://2e.aonprd.com/NPCs.aspx?ID=3025)
-- Grindtooth - [Snow Goblin Pyro](https://2e.aonprd.com/NPCs.aspx?ID=3026)
+- 3x Back-Alley Boys - [Snow Goblin Commandos](https://2e.aonprd.com/NPCs.aspx?ID=3025) - grant resistance cold 5
+- Grindtooth - [Snow Goblin Pyro](https://2e.aonprd.com/NPCs.aspx?ID=3026) = grant resistance cold 5
 
 ## G3. Mirror, Mirror
 **Creatures**
