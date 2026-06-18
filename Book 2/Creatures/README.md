@@ -71,13 +71,6 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](PF2Tools/Faun.json)
 * [PDF](PDFs/Faun.pdf)
 
-### Freshwater Merrow
-
-![Freshwater Merrow](PNGs/FreshwaterMerrow.png)
-
-* [PF2 Tools JSON](PF2Tools/FreshwaterMerrow.json)
-* [PDF](PDFs/FreshwaterMerrow.pdf)
-
 ### Mirrow Man
 
 ![Mirror Man](PNGs/MirrorMan.png)
