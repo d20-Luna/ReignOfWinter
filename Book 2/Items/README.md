@@ -26,3 +26,8 @@ This magical [biting snare](https://2e.aonprd.com/Equipment.aspx?ID=3364) can be
 
 ## Ushanka of the Northlands
 
+**Level** 5
+
+This large, furry hat is sewn from the thick pelt of an animal native to the frozen north, and has earflaps that can be pulled down or folded up over the crown of the hat.
+
+When worn, the wearer gains a +2 item bonus on Survival checks and on saving throws against cold weather and effects with the cold trait. With an Interact action, the wearer can pull the flaps down over the ears, granting the wearer a +2 item bonus to effects with the sonic or auditory trait, but inflicting a -2 penalty on Perception checks made to listen. Putting the flaps back up is another Interact action.
