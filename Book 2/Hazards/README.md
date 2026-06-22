@@ -16,8 +16,20 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 * [PDF](FrozenClocktower.pdf)
 
+### Font of Water
+
 ### Falling Tree Trap
 
 ![Falling Tree Trap](FallingTreeTrap.png)
 
 * [PDF](FallingTreeTrap.pdf)
+
+### Tottering Treehouse
+
+### Altar of Earth
+
+### Flaming Font
+
+### The Sky Tree
+
+### The Dancing Hut
