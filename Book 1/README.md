@@ -139,25 +139,25 @@ Level | XP Progression          | Milestone
 ### H11. Rohkar's Room
 - **Treasure:**
   - [Gold Ingot engraved with Taldan royal seal](https://2e.aonprd.com/Equipment.aspx?ID=1765)
-  - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754) 🔥
+  - [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754)
   - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2920) Lady’s Ring
   - 3x [Tiger’s Eye](https://2e.aonprd.com/Rules.aspx?ID=3228)
   - [Low-Grade Silver](https://2e.aonprd.com/Equipment.aspx?ID=2860) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with hidden compartment containing:
-    - 1x [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334)) 🔥
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517) 🔥
-  - 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658) 🔥
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631) 🔥
+    - 1x [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334))
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517)
+  - 2x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Runic Weapon](https://2e.aonprd.com/Spells.aspx?ID=1658)
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
 
 ### H12. Ten-Penny's Room
 - **Treasure:**
-  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727) 🔥
+  - [Expanded Healer’s Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2727)
   - belt pouch containing:
     - 2 sp
     - 5 cp
-  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943) 🔥
-  - 3x Invisibility Potion 🔥
-  - 1x Gecko Potion 🔥
-  - 1x Lesser Glue Bomb 🔥
+  - 2x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - 3x Invisibility Potion
+  - 1x Gecko Potion
+  - 1x Lesser Glue Bomb
 
 ### H13. Great Room
 - **Creatures:**
@@ -176,14 +176,14 @@ Level | XP Progression          | Milestone
 - **Creatures:**
   - Vrixx - [Winter-Touched Sprite](https://2e.aonprd.com/Monsters.aspx?ID=3210) (Immunity to Cold, Weakness 3 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 16))
 - **Treasure:**
-  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706) 🔥
-  - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330) 🔥
+  - 4x [Scrolls](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706)
+  - 2x [Cytillesh Oil](https://2e.aonprd.com/Equipment.aspx?ID=3330)
   - lockbox containing:
     - 3 pp
     - 15 gp
     - 18 sp
     - blue quartz "ice diamond" (worth 10 gp))
-  - 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936) 🔥
+  - 3x [Oils of Potency](https://2e.aonprd.com/Equipment.aspx?ID=2936)
   - 10x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
 
 ### H17. Cellar
