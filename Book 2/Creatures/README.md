@@ -20,6 +20,16 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](PF2Tools/GrannyNan.json)
 * [PDF](PDFs/GrannyNan.pdf)
 
+### Controlled Thresh
+
+### Controlled Issara
+
+### Nazhena Vasilliovna
+
+### The Dancing Hut of Baba Yaga
+
+### Zorka
+
 ## New Creatures
 
 ### Boreal Wolf
@@ -78,5 +88,6 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](PF2Tools/MirrorMan.json)
 * [PDF](PDFs/MirrorMan.pdf)
 
+### Dawn Piper
 
-
+### Baccae
