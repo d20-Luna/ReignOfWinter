@@ -71,7 +71,7 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](PF2Tools/Faun.json)
 * [PDF](PDFs/Faun.pdf)
 
-### Mirrow Man
+### Mirror Man
 
 ![Mirror Man](PNGs/MirrorMan.png)
 
