@@ -32,11 +32,11 @@ Level | XP Progression           | Milestone
 
 ## Event 1: Threat from the Skies
 **Creatures**
-- 2x [Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4528)
+- 2x [Elite Raven Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4528&Elite=true) (increase to 3 if 5-6 Party Members)
 
 ## Event 2: Gremlins' Curse
 **Creatures**
-- 6x [Winter-Touched Jinkins](https://2e.aonprd.com/Monsters.aspx?ID=3033) (Immunity to Cold, Weakness 2 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 17))
+- 4x [Winter-Touched Jinkins](https://2e.aonprd.com/Monsters.aspx?ID=3033) (Immunity to Cold, Weakness 2 to fire, Attacks deal added cold instead of fire and inflict slowed 1 for 1 round (DC 17)) (increase to 6 if 5-6 Party Members)
 
 ## Event 3: Little Boy Lost
 **Creatures**
