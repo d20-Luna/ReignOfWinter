@@ -47,6 +47,7 @@
 ## E. Troll Bridge
 **Creatures**
   - 4x River Ogres
+
 **Treasure**
   - 3x [Battering Ammunition (Bolts)](https://2e.aonprd.com/Equipment.aspx?ID=3862)
   - 1x [+1 Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=43)
@@ -64,6 +65,7 @@
   - 2x [Elite Ogre Warriors](https://2e.aonprd.com/Monsters.aspx?ID=3118&Elite=true&NoRedirect=1)
   - 1x Marcian Enarxion
   - 1x Ringeirr Malenkov
+
 **Treasure**
   - 1x [Wand of Gecko Grip](https://2e.aonprd.com/Spells.aspx?ID=1541)
   - 6x uncut rubies (8 gp each)
@@ -87,6 +89,7 @@
 ## G5. Wages of Sin
 **Creatures**
   - 2x [Elite Witchwargs](https://2e.aonprd.com/Monsters.aspx?ID=3231&Elite=true&NoRedirect=1)
+
 **Treasure**
   - 20 blue quartz (15 gp each)
   - 1x [Jug of Fond Remembrance](https://2e.aonprd.com/Equipment.aspx?ID=2193)
@@ -129,7 +132,8 @@
 **Creatures**
   - 1x Amagarra
   - 1x [Elite Trollhound](https://2e.aonprd.com/Monsters.aspx?ID=4595&Elite=true&NoRedirect=1)
-**Treasures**
+
+**Treasure**
   - 1x [Thundering Rune](https://2e.aonprd.com/Equipment.aspx?ID=2850)
   - 1x [Gecko Potion](https://2e.aonprd.com/Equipment.aspx?ID=2942)
   - 1x iron nose ring
@@ -145,8 +149,10 @@
 ## L18. Logrivich's Lair
 **Creatures**
   - 1x Logrivich - [Adult Rime Dragon](https://2e.aonprd.com/Monsters.aspx?ID=4159&Weak=true&NoRedirect=1)
+
 **Hazards**
   - 1x [Frozen Clocktower](https://scribe.pf2.tools/v/6lF3RMcd-frozen-clocktower)
+
 **Treasure**
   - 1x [Lesser Wovenwood Shield](https://2e.aonprd.com/Equipment.aspx?ID=1378)
   - 1x [+1 Striking Wounding Handwraps of Mighty Blows](https://2e.aonprd.com/Equipment.aspx?ID=3086)
@@ -168,6 +174,7 @@
 **Creatures**
   - 1x Dawn Piper (Water-Elemental Spells)
   - 1x [Weak Spriggan Warlord](https://2e.aonprd.com/Monsters.aspx?ID=818&Weak=true&NoRedirect=1)
+
 **Hazards**
   - 1x [Font of Water](https://scribe.pf2.tools/v/Wf83YzJ1-font-of-water)
 
@@ -175,5 +182,29 @@
 **Creatures**
   - 1x Dawn Piper (Earth-Elemental Spells)
   - 1x [Elite Lampad](https://2e.aonprd.com/Monsters.aspx?ID=1249&Elite=true&NoRedirect=1)
+
 **Hazards**
-  - 1x [Altar of Earth](
+  - 1x [Altar of Earth](https://scribe.pf2.tools/v/tQ4RR8Hs-altar-of-earth)
+
+## M8. The Burning House
+**Creatures**
+  - 1x Dawn Piper (Fire-Elemental Spells)
+      - **Primal Spontaneous Spells (Fire)** DC 24, attack +16; **3rd** *ash cloud, breathe fire, scorching blast* (2 slots)
+  - 1x [Elananx](https://2e.aonprd.com/Monsters.aspx?ID=2972)
+
+**Hazards**
+  - 1x [Infernal Inferno](https://scribe.pf2.tools/v/LYBT48ZM-infernal-inferno)
+
+## M9. The Last Party
+**Creatures**
+  - 4x Baccae
+  - 4x [Drunkards](https://2e.aonprd.com/NPCs.aspx?ID=946)
+
+## M10. The Sky Tree
+**Creatures**
+  - 1x Dawn Piper (Air-Elemental Spells)
+  - 1x [Elite Living Whirlwind](https://2e.aonprd.com/Monsters.aspx?ID=2974&Elite=true&NoRedirect=1)
+
+**Hazards**
+  - 1x [The Sky Tree](https://scribe.pf2.tools/v/rL4MDFoF-the-sky-tree)
+
